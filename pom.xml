@@ -1,3 +1,4 @@
+<!-- 主要依赖 -->
 <!-- Spring WebSocket Support -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
